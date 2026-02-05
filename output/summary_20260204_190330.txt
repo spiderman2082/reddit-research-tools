@@ -1,0 +1,13 @@
+﻿Window: last 72 hours
+Total posts analyzed: 3
+Posts in-window + configured subreddits: 3
+
+Top demand signals (sorted by keyword hits, score, comments):
+- [techsupport] (2 hits) score=88 comments=22 2026-02-04 13:03: PC stutters in games after driver update
+  hits: fps, stutter
+  link: https://reddit.com/r/techsupport/comments/def456/
+- [mechanicadvice] (1 hits) score=142 comments=38 2026-02-04 19:03: Car shakes / vibration at 65+ mph after new tires
+  hits: vibration
+  link: https://reddit.com/r/mechanicadvice/comments/abc123/
+- [sysadmin] (0 hits) score=61 comments=17 2026-02-04 07:03: Best way to monitor Windows event logs for crashes
+  link: https://reddit.com/r/sysadmin/comments/ghi789/

@@ -1,0 +1,4 @@
+subreddit,id,created_utc,score,num_comments,title,permalink,keyword_hit_count,keyword_hits
+techsupport,def456,1770231810,88,22,PC stutters in games after driver update,https://reddit.com/r/techsupport/comments/def456/,2,fps;stutter
+mechanicadvice,abc123,1770253410,142,38,Car shakes / vibration at 65+ mph after new tires,https://reddit.com/r/mechanicadvice/comments/abc123/,1,vibration
+sysadmin,ghi789,1770210210,61,17,Best way to monitor Windows event logs for crashes,https://reddit.com/r/sysadmin/comments/ghi789/,0,

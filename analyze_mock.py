@@ -92,7 +92,7 @@ def main():
 
     # Write CSV
     fieldnames = ["subreddit","id","created_utc","score","num_comments","title","permalink","keyword_hit_count","keyword_hits"]
-    with open(out_csv, "w", encoding="utf-8", newline="") as f:
+    with open(out_csv, "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)
         w.writeheader()
         for p in enriched:
