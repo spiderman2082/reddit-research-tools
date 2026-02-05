@@ -1,0 +1,21 @@
+﻿# Phase 1 config (no API)
+# Edit these any time without changing code.
+subreddits:
+  - mechanicadvice
+  - sysadmin
+  - techsupport
+  - linux
+  - smallbusiness
+
+# Keywords/phrases you want to detect in titles/selftext
+keywords:
+  - "won't start"
+  - "no crank"
+  - "vibration"
+  - "overheating"
+  - "check engine"
+  - "error code"
+  - "slow"
+  - "lag"
+  - "fps"
+  - "stutter"
