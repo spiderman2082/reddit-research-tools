@@ -6,3 +6,11 @@ venv/
 .env.*
 *.log
 .DS_Store
+
+.env
+
+
+# Generated outputs/logs (do not commit)
+output/
+logs/
+.env
